@@ -1,0 +1,16 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete

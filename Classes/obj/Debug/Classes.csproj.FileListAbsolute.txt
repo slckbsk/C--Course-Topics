@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\bin\Debug\Classes.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\bin\Debug\Classes.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\bin\Debug\Classes.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\obj\Debug\Classes.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Classes\obj\Debug\Classes.pdb

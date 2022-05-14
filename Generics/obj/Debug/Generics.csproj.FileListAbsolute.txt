@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\bin\Debug\Generics.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\bin\Debug\Generics.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\bin\Debug\Generics.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\obj\Debug\Generics.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Generics\obj\Debug\Generics.pdb

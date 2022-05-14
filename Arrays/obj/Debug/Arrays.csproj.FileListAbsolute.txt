@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\bin\Debug\Arrays.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\bin\Debug\Arrays.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\bin\Debug\Arrays.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\obj\Debug\Arrays.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Arrays\obj\Debug\Arrays.pdb

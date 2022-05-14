@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\bin\Debug\TypesAndVariable.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\bin\Debug\TypesAndVariable.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\bin\Debug\TypesAndVariable.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\obj\Debug\TypesAndVariable.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\obj\Debug\TypesAndVariable.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\obj\Debug\TypesAndVariable.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\obj\Debug\TypesAndVariable.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\TypesAndVariable\obj\Debug\TypesAndVariable.pdb

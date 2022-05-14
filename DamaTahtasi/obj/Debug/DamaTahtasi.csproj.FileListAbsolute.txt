@@ -1,0 +1,11 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\bin\Debug\DamaTahtasi.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\bin\Debug\DamaTahtasi.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\bin\Debug\DamaTahtasi.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.Form1.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.Properties.Resources.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.GenerateResource.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\DamaTahtasi\obj\Debug\DamaTahtasi.pdb

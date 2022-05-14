@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\bin\Debug\Interfaces3.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\bin\Debug\Interfaces3.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\bin\Debug\Interfaces3.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\obj\Debug\Interfaces3.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\obj\Debug\Interfaces3.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\obj\Debug\Interfaces3.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\obj\Debug\Interfaces3.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Interfaces3\obj\Debug\Interfaces3.pdb

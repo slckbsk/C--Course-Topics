@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\bin\Debug\Events.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\bin\Debug\Events.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\bin\Debug\Events.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\obj\Debug\Events.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\obj\Debug\Events.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Events\obj\Debug\Events.pdb

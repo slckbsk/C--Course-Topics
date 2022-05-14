@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\Conditionals\obj\Debug\Conditionals.pdb

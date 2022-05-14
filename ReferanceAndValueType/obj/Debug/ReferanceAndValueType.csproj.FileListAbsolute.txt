@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\bin\Debug\ReferanceAndValueType.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\bin\Debug\ReferanceAndValueType.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\bin\Debug\ReferanceAndValueType.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\ReferanceAndValueType\obj\Debug\ReferanceAndValueType.pdb

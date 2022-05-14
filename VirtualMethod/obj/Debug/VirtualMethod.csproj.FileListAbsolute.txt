@@ -1,0 +1,8 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\bin\Debug\VirtualMethod.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\bin\Debug\VirtualMethod.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\bin\Debug\VirtualMethod.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\obj\Debug\VirtualMethod.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\obj\Debug\VirtualMethod.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\obj\Debug\VirtualMethod.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\obj\Debug\VirtualMethod.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\VirtualMethod\obj\Debug\VirtualMethod.pdb

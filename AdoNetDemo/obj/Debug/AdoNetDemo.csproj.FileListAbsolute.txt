@@ -1,0 +1,11 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb

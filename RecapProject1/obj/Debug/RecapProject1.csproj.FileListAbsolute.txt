@@ -1,0 +1,16 @@
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\RecapProject1.exe.config
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\RecapProject1.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\RecapProject1.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.csproj.SuggestedBindingRedirects.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.exe
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.pdb
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\EntityFramework.dll
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\EntityFramework.xml
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualRepo\repos\C++SoloDersleri\BTKCSharpCourse\RecapProject1\obj\Debug\RecapProject1.csproj.CopyComplete
